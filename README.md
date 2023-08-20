@@ -19,14 +19,17 @@
 <ul/>
 
 <h3>Instalación y Uso</h3>
-Clona este repositorio en tu computadora.
 
-Instala las dependencias necesarias ejecutando pip install -r requirements.txt.
+<ul>
+<li>Clona este repositorio en tu computadora.</li>
 
-Ejecuta el archivo main.py para comenzar a interactuar con Clara.
+<li>Instala las dependencias necesarias ejecutando pip install -r requirements.txt.</li>
 
-¡Comienza a utilizar Clara! Puedes dar comandos de voz, abrir sitios web, hacer preguntas y más.
+<li>Ejecuta el archivo main.py para comenzar a interactuar con Clara.</li>
 
+<li>¡Comienza a utilizar Clara! Puedes dar comandos de voz, abrir sitios web, hacer preguntas y más.</li>
+
+</ul>
 <h3>Nota</h3>
 Este proyecto es un trabajo en curso y se encuentra en constante desarrollo. Si tienes ideas, mejoras o encuentras algún problema, no dudes en crear un issue o contribuir con un pull request.
 
