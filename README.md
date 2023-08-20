@@ -1,4 +1,4 @@
-
+<boby>
 <h1> Asistente Virtual Clara </h1>
 
 
@@ -8,13 +8,13 @@
 
 <ul>
 
-Interacción por Voz: Clara puede recibir y procesar tus comandos utilizando reconocimiento de voz, lo que la hace conveniente y fácil de usar.
+<li>Interacción por Voz: Clara puede recibir y procesar tus comandos utilizando reconocimiento de voz, lo que la hace conveniente y fácil de usar.</li>
 
-Acceso Rápido a Sitios Web: Simplemente pide a Clara que abra tu sitio web favorito, como YouTube, Gmail o Google, y ella lo hará por ti.
+<li>Acceso Rápido a Sitios Web: Simplemente pide a Clara que abra tu sitio web favorito, como YouTube, Gmail o Google, y ella lo hará por ti.</li>
 
-Respuestas a Preguntas: Clara utiliza la tecnología de OpenAI para proporcionar respuestas a tus preguntas sobre diversos temas.
+<li>Respuestas a Preguntas: Clara utiliza la tecnología de OpenAI para proporcionar respuestas a tus preguntas sobre diversos temas.</li>
 
-Apertura de Aplicaciones: Clara puede abrir aplicaciones en tu computadora según tus instrucciones. Ya sea Visual Studio Code, Microsoft Word u otras aplicaciones, Clara está aquí para ayudarte.
+<li>Apertura de Aplicaciones: Clara puede abrir aplicaciones en tu computadora según tus instrucciones. Ya sea Visual Studio Code, Microsoft Word u otras aplicaciones, Clara está aquí para ayudarte.</li>
 
 <ul/>
 
@@ -35,3 +35,5 @@ Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, asegú
 
 <h3>Créditos</h3>
 Este proyecto fue desarrollado por alvaro javier villalobos huerta.
+
+</boby>
