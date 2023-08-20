@@ -13,7 +13,7 @@ Respuestas a Preguntas: Clara utiliza la tecnología de OpenAI para proporcionar
 
 Apertura de Aplicaciones: Clara puede abrir aplicaciones en tu computadora según tus instrucciones. Ya sea Visual Studio Code, Microsoft Word u otras aplicaciones, Clara está aquí para ayudarte.
 
-</h3>Instalación y Uso</h3>
+<h3>Instalación y Uso</h3>
 Clona este repositorio en tu computadora.
 
 Instala las dependencias necesarias ejecutando pip install -r requirements.txt.
@@ -22,11 +22,11 @@ Ejecuta el archivo main.py para comenzar a interactuar con Clara.
 
 ¡Comienza a utilizar Clara! Puedes dar comandos de voz, abrir sitios web, hacer preguntas y más.
 
-</h3>Nota</h3>
+<h3>Nota</h3>
 Este proyecto es un trabajo en curso y se encuentra en constante desarrollo. Si tienes ideas, mejoras o encuentras algún problema, no dudes en crear un issue o contribuir con un pull request.
 
-</h3>Contribuciones</h3>
+<h3>Contribuciones</h3>
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, asegúrate de seguir las pautas de contribución del repositorio.
 
-</h3>Créditos</h3>
+<h3>Créditos</h3>
 Este proyecto fue desarrollado por alvaro javier villalobos huerta.
