@@ -21,6 +21,7 @@
 <h3>Instalación y Uso</h3>
 
 <ul>
+  
 <li>Clona este repositorio en tu computadora.</li>
 
 <li>Instala las dependencias necesarias ejecutando pip install -r requirements.txt.</li>
