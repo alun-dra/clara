@@ -5,6 +5,9 @@
 </h2>Clara es un asistente virtual interactivo que utiliza la tecnología de procesamiento de lenguaje natural para comprender tus comandos de voz y realizar acciones en función de ellos. Desde abrir sitios web hasta responder preguntas generales, Clara está diseñada para facilitar tus tareas diarias.</h2>
 
 <h3>Características</h3>
+
+<ul>
+
 Interacción por Voz: Clara puede recibir y procesar tus comandos utilizando reconocimiento de voz, lo que la hace conveniente y fácil de usar.
 
 Acceso Rápido a Sitios Web: Simplemente pide a Clara que abra tu sitio web favorito, como YouTube, Gmail o Google, y ella lo hará por ti.
@@ -12,6 +15,8 @@ Acceso Rápido a Sitios Web: Simplemente pide a Clara que abra tu sitio web favo
 Respuestas a Preguntas: Clara utiliza la tecnología de OpenAI para proporcionar respuestas a tus preguntas sobre diversos temas.
 
 Apertura de Aplicaciones: Clara puede abrir aplicaciones en tu computadora según tus instrucciones. Ya sea Visual Studio Code, Microsoft Word u otras aplicaciones, Clara está aquí para ayudarte.
+
+<ul/>
 
 <h3>Instalación y Uso</h3>
 Clona este repositorio en tu computadora.
