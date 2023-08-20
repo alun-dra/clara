@@ -31,6 +31,12 @@
 <li>¡Comienza a utilizar Clara! Puedes dar comandos de voz, abrir sitios web, hacer preguntas y más.</li>
 
 </ul>
+<h4>Importante</h4>
+
+<ul>
+  <li>Crear un archivo ".env" con su propia clave de OpenIA, para poder interactuar con ella.</li>
+</ul>
+
 <h3>Nota</h3>
 Este proyecto es un trabajo en curso y se encuentra en constante desarrollo. Si tienes ideas, mejoras o encuentras algún problema, no dudes en crear un issue o contribuir con un pull request.
 
