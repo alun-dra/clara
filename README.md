@@ -2,9 +2,9 @@
 <h1> Asistente Virtual Clara </h1>
 
 
-Clara es un asistente virtual interactivo que utiliza la tecnología de procesamiento de lenguaje natural para comprender tus comandos de voz y realizar acciones en función de ellos. Desde abrir sitios web hasta responder preguntas generales, Clara está diseñada para facilitar tus tareas diarias.
+</h2>Clara es un asistente virtual interactivo que utiliza la tecnología de procesamiento de lenguaje natural para comprender tus comandos de voz y realizar acciones en función de ellos. Desde abrir sitios web hasta responder preguntas generales, Clara está diseñada para facilitar tus tareas diarias.</h2>
 
-Características
+<h3>Características</h3>
 Interacción por Voz: Clara puede recibir y procesar tus comandos utilizando reconocimiento de voz, lo que la hace conveniente y fácil de usar.
 
 Acceso Rápido a Sitios Web: Simplemente pide a Clara que abra tu sitio web favorito, como YouTube, Gmail o Google, y ella lo hará por ti.
